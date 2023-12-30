@@ -1,0 +1,16 @@
+{
+  "name": "qr_code_generataor",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satvik",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "qr-image": "^3.2.0"
+  }
+}
